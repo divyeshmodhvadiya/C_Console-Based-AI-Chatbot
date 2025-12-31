@@ -111,12 +111,11 @@ c-ai-chatbot/
 
 ## 👨‍💻 Author
 
-Name: Divyesh Modhvadiya
+Name: Divyesh Modhvadiya  
 Course: BCA  
 Project Type: Academic Mini Project  
 Programming Language: C  
 
 ---
-
 
 
